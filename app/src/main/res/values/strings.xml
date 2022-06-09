@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="welcome">Modern tool to predict,detect, deseases</string>
+    <string name="facebook_app_id">1234</string>
+
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+    <string name="type_prompt">Choose type</string>
+
+    <string-array name="type_array">
+        <item>Disease Realted</item>
+        <item>Insect Related</item>
+        <item>Other</item>
+
+    </string-array>
+
+
+</resources>
