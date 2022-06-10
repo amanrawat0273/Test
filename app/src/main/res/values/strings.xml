@@ -7,14 +7,6 @@
     <string name="facebook_client_token">56789</string>
 
 
-    <string name="type_prompt">Choose type</string>
-
-    <string-array name="type_array">
-        <item>Disease Realted</item>
-        <item>Insect Related</item>
-        <item>Other</item>
-
-    </string-array>
 
 
 </resources>

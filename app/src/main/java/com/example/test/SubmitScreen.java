@@ -11,7 +11,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 
 public class SubmitScreen extends AppCompatActivity {
-    private TextView txtHelloWorld;
+
     private Spinner spinnerTextSize;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,23 +20,18 @@ public class SubmitScreen extends AppCompatActivity {
 
 
         setContentView(R.layout.activity_submit_screen);
+    spinnerTextSize=findViewById(R.id.spinner1);
 
 
 
 
-
-        String[] textSizes = getResources().getStringArray(R.array.type_array);
+        String[] type = getResources().getStringArray(R.array.type_array);
         ArrayAdapter adapter = new ArrayAdapter(this,
-                android.R.layout.simple_spinner_item, textSizes);
+                android.R.layout.simple_spinner_item, type);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinnerTextSize.setAdapter(adapter);
     }
 
 
-    public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-        if (parent.getId() == R.id.spinner1) {
-            String valueFromSpinner = parent.getItemAtPosition(position).toString();
-            txtHelloWorld.setTextSize(Float.parseFloat(valueFromSpinner));
-        }
+
     }
-}

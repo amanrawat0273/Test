@@ -9,18 +9,34 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Test">
-        <activity android:name=".ErrorScreen"></activity>
-        <activity android:name=".SuccessScreen" />
-        <activity android:name=".SubmitScreen" />
-        <activity android:name=".UploadScreen" />
-        <activity android:name=".SignUp_LogIn" />
-        <activity android:name=".SplashScreen" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".ErrorScreen">
+
+        </activity>
+        <activity android:name=".SuccessScreen" >
+
+        </activity>
+
+        <activity android:name=".SubmitScreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".UploadScreen" >
+
+        </activity>
+        <activity android:name=".SignUp_LogIn" >
+
+        </activity>
+        <activity android:name=".SplashScreen" >
+
+        </activity>
+
+
+
+        <activity android:name=".MainActivity">
+
         </activity>
 
         <meta-data
