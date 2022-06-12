@@ -1,0 +1,10 @@
+# Test
+this is my assignment (A1 Crop)
+![submit](https://user-images.githubusercontent.com/53792535/173248589-afffffe5-35cd-4ee2-8e96-41b8a3a36a95.jpeg)
+![submit1](https://user-images.githubusercontent.com/53792535/173248591-9ddf6aae-0153-4042-86ad-d8e204f2124c.jpeg)
+![submit2](https://user-images.githubusercontent.com/53792535/173248593-8040d3da-515c-416a-afb3-25bf8c2d2952.jpeg)
+![success](https://user-images.githubusercontent.com/53792535/173248594-1f1489dc-0f1d-4695-8cd2-16553ce0adef.jpeg)
+![capture](https://user-images.githubusercontent.com/53792535/173248596-24b53a9d-7d5e-4ba3-a212-6aaba004f522.jpeg)
+![error](https://user-images.githubusercontent.com/53792535/173248597-d3ab41a0-1418-42ae-b260-ef8e4c3168cd.jpeg)
+![login](https://user-images.githubusercontent.com/53792535/173248598-8b57149d-cef9-43d5-8071-2e961bd385c2.jpeg)
+![splash](https://user-images.githubusercontent.com/53792535/173248599-c156da8f-76e1-45d8-b033-33eec5b28a43.jpeg)
